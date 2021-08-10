@@ -8,6 +8,8 @@ Prof. Dr. Vinícius R. P. Borges
 
 ## Sumário
 
+# Módulo I: Fundamentos Básicos
+
 1. Ponteiros
 
      1.1. [Slides](slides/116319_ed_aula01_ponteiros.pdf)
@@ -15,4 +17,17 @@ Prof. Dr. Vinícius R. P. Borges
      1.2. [Código-fonte](main/ponteiros)
   
 2. Alocação Dinâmica de Memória
+
+# Módulo II: Estruturas de Dados Lineares
+
+
+
+# Módulo III: Estruturas de Dados Não-Lineares
+
+
+## Referências
+
+
+
+
    
